@@ -1,0 +1,24 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+
+website:
+  title: "Registered Reports"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: slides/index.qmd
+        text: Slides
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+callout-icon: false
