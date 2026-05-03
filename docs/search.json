@@ -18,7 +18,7 @@
     "href": "slides/index.html#replication-in-linguistics",
     "title": "Registered Reports",
     "section": "Replication in linguistics",
-    "text": "Replication in linguistics\n\n\n\n\n[O]nly 1 in 1,250 experimental linguistic articles contains an independent direct replication.\n\n\nThe observed smaller number of citations of replication studies compared to corresponding initial studies is also in line with the lack of perceived value of replication studies reported in other fields.\n\n— Kobrock and Roettger (2023)"
+    "text": "Replication in linguistics\n\n\n\n\n\n\n\n\n1 in 1250\narticles contains an independent direct replication\nKobrock and Roettger (2023)\n\n\n\nSmaller number of citations of replication studies compared to corresponding initial studies.\n\n\n\nDuplicate icons created by gravisio - Flaticon"
   },
   {
     "objectID": "slides/index.html#statistical-power-in-linguistics",
@@ -46,7 +46,7 @@
     "href": "slides/index.html#reproducibility-in-linguistics",
     "title": "Registered Reports",
     "section": "Reproducibility in linguistics",
-    "text": "Reproducibility in linguistics\n\n\n\n\n35% of the articles were published open access and the rates of sharing materials, data, and protocols were below 10%. None of the articles reported preregistrations, 1% reported replications, and 10% had conflict of interest statements. These rates have not increased noticeably between 2008/2009 and 2018/2019.\n\n— Bochynska et al. (2023)"
+    "text": "Reproducibility in linguistics\n\n\n\n\n\n\n\n\nless than 10%\nof articles share data, materials, protocols\nBochynska et al. (2023)\n\n\n\nThese rates have not increased noticeably between 2008 and 2019.\n\n\n\nFile-sharing icons created by Freepik - Flaticon"
   },
   {
     "objectID": "slides/index.html#traditional-publishing",
@@ -67,7 +67,7 @@
     "href": "slides/index.html#proportion-of-negative-results",
     "title": "Registered Reports",
     "section": "Proportion of negative results",
-    "text": "Proportion of negative results\n\nFrom Scheel, Schijen, and Lakens (2021)."
+    "text": "Proportion of negative results\n\nFrom Scheel et al. (2021)."
   },
   {
     "objectID": "slides/index.html#not-killing-the-vibe",
@@ -109,7 +109,7 @@
     "href": "slides/index.html#references",
     "title": "Registered Reports",
     "section": "References",
-    "text": "References\n\n\n\n\nBochynska, Agata, Liam Keeble, Caitlin Halfacre, Joseph V. Casillas, Irys-Amélie Champagne, Kaidi Chen, Melanie Röthlisberger, Erin M. Buchanan, and Timo B. Roettger. 2023. “Reproducible Research Practices and Transparency Across Linguistics.” Glossa Psycholinguistics 2 (1). https://doi.org/10.5070/g6011239.\n\n\nBrysbaert, Marc. 2020. “Power Considerations in Bilingualism Research: Time to Step up Our Game.” Bilingualism: Language and Cognition 24 (5): 813818. https://doi.org/10.1017/s1366728920000437.\n\n\nGaeta, Laura, and Christopher R. Brydges. 2020. “An Examination of Effect Sizes and Statistical Power in Speech, Language, and Hearing Research.” Journal of Speech, Language, and Hearing Research 63 (5): 15721580. https://doi.org/10.1044/2020_jslhr-19-00299.\n\n\nKirby, James, and Morgan Sonderegger. 2018. “Mixed-Effects Design Analysis for Experimental Phonetics.” Journal of Phonetics 70: 7085. https://doi.org/10.1016/j.wocn.2018.05.005.\n\n\nKobrock, Kristina, and Timo B. Roettger. 2023. “Assessing the Replication Landscape in Experimental Linguistics.” Glossa Psycholinguistics 2 (1). https://doi.org/10.5070/g6011135.\n\n\nScheel, Anne M., Mitchell R. M. J. Schijen, and Daniël Lakens. 2021. “An Excess of Positive Results: Comparing the Standard Psychology Literature With Registered Reports.” Advances in Methods and Practices in Psychological Science 4 (2): 25152459211007467. https://doi.org/10.1177/25152459211007467.\n\n\nSoderberg, Courtney K., Timothy M. Errington, Sarah R. Schiavone, Julia Bottesini, Felix Singleton Thorn, Simine Vazire, Kevin M. Esterling, and Brian A. Nosek. 2021. “Initial Evidence of Research Quality of Registered Reports Compared with the Standard Publishing Model.” Nature Human Behaviour 5 (8): 990–97. https://doi.org/10.1038/s41562-021-01142-4."
+    "text": "References\n\n\n\n\nBochynska, Agata, Liam Keeble, Caitlin Halfacre, et al. 2023. “Reproducible Research Practices and Transparency Across Linguistics.” Glossa Psycholinguistics 2 (1). https://doi.org/10.5070/g6011239.\n\n\nKobrock, Kristina, and Timo B. Roettger. 2023. “Assessing the Replication Landscape in Experimental Linguistics.” Glossa Psycholinguistics 2 (1). https://doi.org/10.5070/g6011135.\n\n\nScheel, Anne M., Mitchell R. M. J. Schijen, and Daniël Lakens. 2021. “An Excess of Positive Results: Comparing the Standard Psychology Literature with Registered Reports.” Advances in Methods and Practices in Psychological Science 4 (2): 25152459211007467. https://doi.org/10.1177/25152459211007467.\n\n\nSoderberg, Courtney K., Timothy M. Errington, Sarah R. Schiavone, et al. 2021. “Initial Evidence of Research Quality of Registered Reports Compared with the Standard Publishing Model.” Nature Human Behaviour 5 (8): 990–97. https://doi.org/10.1038/s41562-021-01142-4."
   },
   {
     "objectID": "index.html",
@@ -117,5 +117,19 @@
     "title": "Registered Reports: what are they and how to write one?",
     "section": "",
     "text": "This is the website of the presentation Registered Reports: what are they and how to write one? given at the P-Workshop 2026."
+  },
+  {
+    "objectID": "slides/index.html#reliability-of-results",
+    "href": "slides/index.html#reliability-of-results",
+    "title": "Registered Reports",
+    "section": "Reliability of results",
+    "text": "Reliability of results"
+  },
+  {
+    "objectID": "slides/index.html#reliability-of-results-1",
+    "href": "slides/index.html#reliability-of-results-1",
+    "title": "Registered Reports",
+    "section": "Reliability of results",
+    "text": "Reliability of results"
   }
 ]
