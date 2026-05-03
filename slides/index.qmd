@@ -1,91 +1,17 @@
 ---
-title: "Registered Reports"
-subtitle: "What are they and how to write one"
-author: "Stefano Coretta"
-date: "2026-03-20"
+title: "Registered Reports as a model for research reform"
+subtitle: "Theory and practice"
+author: "Stefano Coretta and Jessica Hampton"
+date: "2026-05-21"
 format: revealjs
 bibliography: references.bib
+nocite: |
+  @devezer2019, @makel2012, @cohen1962, @sedlmeier1992, @bezeau2001, @john2012, @wicherts2006, @fanelli2010, @kerr1998
 ---
 
-## Research process cycle
-
-![](/img/res-process-cycle.png){fig-align="center"}
-
-## {.center}
-
-![](/img/rq-design-results.png)
-
-## {.center}
-
-![](/img/rq-design-results-2.png)
-
-## Questionable research practices (QRPs)
+## Research crises
 
 ![](/img/res-process-cycle-qrps.png){fig-align="center"}
-
-## Reliability of results
-
-![](/img/repli-matrix.png)
-
-## Reliability of results
-
-![](/img/repli-matrix-2.png)
-
-## Reproducibility in linguistics
-
-::: columns
-
-::: {.column width="50%"}
-![](/img/file-sharing.png){width="300" fig-align="center"}
-:::
-
-::: {.column width="50%"}
-[less than 10%]{.r-fit-text}
-
-of articles share data, materials, protocols
-
-[@bochynska2023]{.small-ref}
-:::
-
-:::
-
-<br><br>
-
-::: fragment
-These rates have not increased noticeably between 2008 and 2019.
-:::
-
-::: aside
-[<a href="https://www.flaticon.com/free-icons/file-sharing" title="file-sharing icons">File-sharing icons created by Freepik - Flaticon</a>]{.small-ref}
-:::
-
-## Replication in linguistics
-
-::: columns
-
-::: {.column width="50%"}
-![](/img/cloning.png){width="300" fig-align="center"}
-:::
-
-::: {.column width="50%"}
-[1 in 1250]{.r-fit-text}
-
-articles contains an independent direct replication
-
-[@kobrock2023]{.small-ref}
-:::
-
-:::
-
-<br><br>
-
-::: fragment
-Smaller number of citations of replication studies compared to corresponding initial studies.
-:::
-
-::: aside
-[<a href="https://www.flaticon.com/free-icons/duplicate" title="duplicate icons">Duplicate icons created by gravisio - Flaticon</a>]{.small-ref}
-:::
 
 ## Traditional publishing
 
@@ -100,13 +26,7 @@ Smaller number of citations of replication studies compared to corresponding ini
 ::: callout-tip
 ## Stage 1 manuscript
 
-- Write **introduction, background and methods**.
-
-- Target **specific and clear** RQs (and RHs) and assess **feasibility** (within constraints).
-
-- **Pilot** studies or data **simulations**.
-
-- Prepare a **research compendium** and ensure **reproducibility**.
+Write **introduction, background and methods**.
 :::
 
 . . .
@@ -122,16 +42,34 @@ Carry out the study according to the Stage 1 registered protocol.
 ::: callout-tip
 ## Stage 2 manuscript
 
-- Write **results** (of registered analyses + optional exploratory non-registered analyses), **discussion** and **conclusion**.
+Write **results** (of registered analyses + optional exploratory non-registered analyses), **discussion** and **conclusion**.
 :::
 
-## Proportion of negative results
+. . .
 
-![From @scheel2021.](/img/scheel2021a-fig.png){fig-align="center"}
+::: callout-important
+## Publication
 
-## Not killing the vibe
+Your Stage 2 manuscript is published.
+:::
 
-![From @soderberg2021.](/img/soderberg2021-img.png){fig-align="center"}
+. . .
+
+::: {style="text-align: center; font-size: 0.6em;"}
+See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
+:::
+
+## [Tip 1]{.text-box} Precise RQs (and RHs)
+
+
+## [Tip 2]{.text-box} Detailed methodology
+
+
+## [Tip 3]{.text-box} Research compendium
+
+
+## [Tip 4]{.text-box} Assess feasibility
+
 
 ## Venues
 
@@ -147,6 +85,21 @@ Carry out the study according to the Stage 1 registered protocol.
 - Glossa Psycholinguistics.
 :::
 
+## Make your next study a Registered Report! {.center background-color="var(--inverse)"}
+
+## References {visibility="uncounted"}
+
+::: {#refs}
+:::
+
+## Proportion of negative results {visibility="uncounted"}
+
+![From @scheel2021.](/img/scheel2021a-fig.png){fig-align="center"}
+
+## Not killing the vibe {visibility="uncounted"}
+
+![From @soderberg2021.](/img/soderberg2021-img.png){fig-align="center"}
+
 ## Guidance for supervisors
 
 ::: {.callout-note appearance="simple"}
@@ -158,7 +111,3 @@ Carry out the study according to the Stage 1 registered protocol.
 
   - Arrangements for post-IPA.
 :::
-
-## Make your next study a Registered Report! {.center background-color="var(--inverse)"}
-
-## References

@@ -46,15 +46,15 @@ $link-color: $base-color !default;
 $dark-bg-text-color: $lighter-color !default;
 
 // Fonts
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,600;1,600&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Source+Code+Pro:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 
-$font-family-sans-serif: 'Noto Sans', sans-serif !default;
-$presentation-heading-font: Cabin, sans-serif !default;
+$font-family-sans-serif: 'Lato', sans-serif !default;
+// $presentation-heading-font: Cabin, sans-serif !default;
 $font-family-monospace: 'Source Code Pro', monospace !default;
 $presentation-font-size-root: 30px !default;
 
 // Headings
-$presentation-h2-font-size: 2em !default;
+// $presentation-h2-font-size: 2em !default;
 
 // Layout
 $presentation-block-margin: 40px;
@@ -66,6 +66,9 @@ $presentation-title-slide-text-align: left;
 
 :root {
   --inverse: #{$base-color};
+  --lighter-color: #{$lighter-color};
+  --medium-purple: #493082;
+  --dark-purple: #2a1b4a;
   --r-block-margin: 10px;
   --r-block-margin: 10px;
   --r-heading-margin: 0 0 40px 0;
@@ -100,6 +103,12 @@ $presentation-title-slide-text-align: left;
 
 .shadow-text {
   text-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+}
+
+.text-box {
+  background-color: #43418A;
+  color: var(--lighter-color);
+  padding: 10px;
 }
 
 .small-ref {
