@@ -59,17 +59,95 @@ Your Stage 2 manuscript is published.
 See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
 :::
 
+## Levels of bias control
+
+![](/img/bias_taxon.2400x2400.jpeg){fig-align="center"}
+
 ## [Tip 1]{.text-box} Precise RQs (and RHs)
 
+::::::::: columns
+::::: {.column width="50%"}
+::: {.callout-note .fragment}
+## Vague RQ
+
+**Do bilingual individuals have a cognitive advantage in executive functions?**
+:::
+
+::: {.callout-tip .fragment}
+## Define all content words
+
+- What type of bilingualism?
+
+- Advantage in what sense?
+
+- Which executive functions?
+  In which tasks?
+  Within which constraints?
+
+- What mechanistic process model are we assuming?
+:::
+:::::
+
+::::: {.column width="50%"}
+::: {.callout-note .fragment}
+## Vague RQ
+
+**How are rivers represented in newspaper articles that talk about pollution?**
+:::
+
+::: {.callout-tip .fragment}
+## Define all content words
+
+- What do we mean by representation?
+  - Critical Discourse Analysis? Which framework?
+- Which newspapers? What time range?
+- What keywords?
+- What kind of pollution?
+:::
+:::::
+:::::::::
 
 ## [Tip 2]{.text-box} Detailed methodology
 
+::::::: columns
+:::: {.column width="50%"}
+::: {.callout-tip .fragment}
+## Quantitative
+
+- Specify operationalisation of all concepts.
+
+- Full analysis pipeline (not enough to say "we will use mixed-effects models").
+
+- Sample size determination.
+  [@lakens2022]{.small-ref}
+
+- Causal inference (for variable selection).
+  [@rohrer2018, @bailey2024]{.small-ref}
+
+- Detailed description of statistical modelling, predictors, interactions, random/varying effects, prior specification, diagnostics.
+
+- Provide positive/negative controls, data validity checks.
+
+- Working code using simulated or pilot data.
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.callout-tip .fragment}
+## Qualitative
+
+- Specify the framework and linguistic strategies of interest (even if exploratory).
+- Full explanation of how data is collected.
+- Provide a detailed description of how the analyses will be conducted.
+- Describe assumptions about the chosen data set.
+- Anything else? [@karhulahti2022a, @karhulahti2023]{.small-ref}
+:::
+::::
+:::::::
 
 ## [Tip 3]{.text-box} Research compendium
 
-
 ## [Tip 4]{.text-box} Assess feasibility
-
 
 ## Venues
 
@@ -87,6 +165,22 @@ See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
 
 ## Make your next study a Registered Report! {.center background-color="var(--inverse)"}
 
+## Things we can talk about
+
+::: {.callout-note appearance="simple"}
+- Research crises/cycle/QRPs.
+
+- RRLing and PCI RR.
+
+- Reviewing RRs.
+
+- RRs for PGT/PGR students.
+
+- [Language Learning Early Career Research Grant Program](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/grant_programs.htm).
+
+- And anything else you'd like!
+:::
+
 ## References {visibility="uncounted"}
 
 ::: {#refs}
@@ -100,10 +194,14 @@ See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
 
 ![From @soderberg2021.](/img/soderberg2021-img.png){fig-align="center"}
 
-## Guidance for supervisors
+## Guidance for students/supervisors
 
 ::: {.callout-note appearance="simple"}
 - **PhD students** especially can benefit from RRs.
+
+  - Year one to develop topic and submit Stage 1.
+
+  - Programmatic RRs.
 
 - **Master students**: Stage 1 manuscript as dissertation.
 
