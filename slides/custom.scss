@@ -35,7 +35,7 @@
 }
 
 // Colours
-$base-color: #43418A !default;
+$base-color: #1c5253 !default;
 $lighter-color: lighten-color($base-color) !default;
 $darker-color: darken-color($base-color) !default;
 $text-muted: rgba($base-color, 0.5) !default;
@@ -67,8 +67,7 @@ $presentation-title-slide-text-align: left;
 :root {
   --inverse: #{$base-color};
   --lighter-color: #{$lighter-color};
-  --medium-purple: #493082;
-  --dark-purple: #2a1b4a;
+  --darker-color: #{$darker-color};
   --r-block-margin: 10px;
   --r-block-margin: 10px;
   --r-heading-margin: 0 0 40px 0;
@@ -106,7 +105,7 @@ $presentation-title-slide-text-align: left;
 }
 
 .text-box {
-  background-color: #43418A;
+  background-color: var(--inverse);
   color: var(--lighter-color);
   padding: 10px;
 }
