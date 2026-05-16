@@ -119,10 +119,10 @@ See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
 - Full analysis pipeline (not enough to say "we will use mixed-effects models").
 
 - Sample size determination.
-  [@lakens2022]{.small-ref}
+  @lakens2022
 
 - Causal inference (for variable selection).
-  [@rohrer2018, @bailey2024]{.small-ref}
+  @rohrer2018, @bailey2024
 
 - Detailed description of statistical modelling, predictors, interactions, random/varying effects, prior specification, diagnostics.
 
@@ -140,14 +140,46 @@ See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
 - Full explanation of how data is collected.
 - Provide a detailed description of how the analyses will be conducted.
 - Describe assumptions about the chosen data set.
-- Anything else? [@karhulahti2022a, @karhulahti2023]{.small-ref}
+- Anything else? @karhulahti2022a, @karhulahti2023
 :::
 ::::
 :::::::
 
 ## [Tip 3]{.text-box} Research compendium
 
-## [Tip 4]{.text-box} Assess feasibility
+::: callout-note
+## Research Compendium
+
+A **research compendium** is a repository containing all materials, code, notebooks, images, data, metadata, manuscripts, etc of a project.
+A compendium is structured in a way that makes the research process transparent and reproducible.
+:::
+
+. . .
+
+::: columns
+
+::: column
+::: {.callout-tip appearance="simple"}
+- Ideally, use a **single main folder**.
+  - Compendia can belong to a super-project and have sub-project compendia/folders. A single paper can also be associated to a specific compendium.
+- Organise files and folders inside according to **type and context**: separate data, code, images.
+- Separate **raw and derived** data.
+- Use as much **automation** as possible.
+- **Document** everything (for example with `README`s).
+- Add a LICENSE file (for example, <https://creativecommons.org/chooser/>).
+- Use version control (like <https://git-scm.com>).
+:::
+:::
+
+::: {.column .fragment}
+
+![](../img/osf_black.png)
+
+![](../img/GitHub_Lockup_Black_Clearspace.png)
+
+:::
+
+:::
 
 ## Venues
 
@@ -158,9 +190,19 @@ See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
 
 - Language and Speech.
 
+- Language and Cognition.
+
 - Bilingualism: Language and Cognition.
 
+- Language Learning.
+
+- Journal of Child Language.
+
 - Glossa Psycholinguistics.
+
+- Cognitive Linguistics
+
+- Biolinguistics.
 :::
 
 ## Make your next study a Registered Report! {.center background-color="var(--inverse)"}

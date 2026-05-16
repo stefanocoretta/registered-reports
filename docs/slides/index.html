@@ -52,7 +52,7 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-8631e52d76ed779d939f5df70136f2a3.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-4637c05d866b1affaf4872d812c78486.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -315,8 +315,8 @@ Stefano Coretta and Jessica Hampton
 <ul>
 <li><p>Specify operationalisation of all concepts.</p></li>
 <li><p>Full analysis pipeline (not enough to say “we will use mixed-effects models”).</p></li>
-<li><p>Sample size determination. <span class="small-ref"><span class="citation" data-cites="lakens2022">Lakens (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></span></p></li>
-<li><p>Causal inference (for variable selection). <span class="small-ref"><span class="citation" data-cites="rohrer2018">Rohrer (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span>, <span class="citation" data-cites="bailey2024">Bailey et al. (<a href="#/references" role="doc-biblioref" onclick="">2024</a>)</span></span></p></li>
+<li><p>Sample size determination. <span class="citation" data-cites="lakens2022">Lakens (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></p></li>
+<li><p>Causal inference (for variable selection). <span class="citation" data-cites="rohrer2018">Rohrer (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span>, <span class="citation" data-cites="bailey2024">Bailey et al. (<a href="#/references" role="doc-biblioref" onclick="">2024</a>)</span></p></li>
 <li><p>Detailed description of statistical modelling, predictors, interactions, random/varying effects, prior specification, diagnostics.</p></li>
 <li><p>Provide positive/negative controls, data validity checks.</p></li>
 <li><p>Working code using simulated or pilot data.</p></li>
@@ -338,7 +338,7 @@ Stefano Coretta and Jessica Hampton
 <li>Full explanation of how data is collected.</li>
 <li>Provide a detailed description of how the analyses will be conducted.</li>
 <li>Describe assumptions about the chosen data set.</li>
-<li>Anything else? <span class="small-ref"><span class="citation" data-cites="karhulahti2022a">Karhulahti (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span>, <span class="citation" data-cites="karhulahti2023">Karhulahti et al. (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span></span></li>
+<li>Anything else? <span class="citation" data-cites="karhulahti2022a">Karhulahti (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span>, <span class="citation" data-cites="karhulahti2023">Karhulahti et al. (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span></li>
 </ul>
 </div>
 </div>
@@ -348,9 +348,42 @@ Stefano Coretta and Jessica Hampton
 </section>
 <section id="tip-3-research-compendium" class="slide level2">
 <h2><span class="text-box">Tip 3</span> Research compendium</h2>
-</section>
-<section id="tip-4-assess-feasibility" class="slide level2">
-<h2><span class="text-box">Tip 4</span> Assess feasibility</h2>
+<div class="callout callout-note no-icon callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<p><strong>Research Compendium</strong></p>
+</div>
+<div class="callout-content">
+<p>A <strong>research compendium</strong> is a repository containing all materials, code, notebooks, images, data, metadata, manuscripts, etc of a project. A compendium is structured in a way that makes the research process transparent and reproducible.</p>
+</div>
+</div>
+</div>
+<div class="fragment">
+<div class="columns">
+<div class="column">
+<div class="callout callout-tip no-icon callout-style-simple">
+<div class="callout-body">
+<div class="callout-content">
+<ul>
+<li>Ideally, use a <strong>single main folder</strong>.
+<ul>
+<li>Compendia can belong to a super-project and have sub-project compendia/folders. A single paper can also be associated to a specific compendium.</li>
+</ul></li>
+<li>Organise files and folders inside according to <strong>type and context</strong>: separate data, code, images.</li>
+<li>Separate <strong>raw and derived</strong> data.</li>
+<li>Use as much <strong>automation</strong> as possible.</li>
+<li><strong>Document</strong> everything (for example with <code>README</code>s).</li>
+<li>Add a LICENSE file (for example, <a href="https://creativecommons.org/chooser/" class="uri">https://creativecommons.org/chooser/</a>).</li>
+<li>Use version control (like <a href="https://git-scm.com" class="uri">https://git-scm.com</a>).</li>
+</ul>
+</div>
+</div>
+</div>
+</div><div class="column fragment">
+<p><img data-src="../img/osf_black.png"></p>
+<p><img data-src="../img/GitHub_Lockup_Black_Clearspace.png"></p>
+</div></div>
+</div>
 </section>
 <section id="venues" class="slide level2">
 <h2>Venues</h2>
@@ -361,8 +394,13 @@ Stefano Coretta and Jessica Hampton
 <li><p>Registered Reports in Linguistics (RRLing): <a href="https://journals.ed.ac.uk/rrling/index" class="uri">https://journals.ed.ac.uk/rrling/index</a></p></li>
 <li><p>Journal of Phonetics.</p></li>
 <li><p>Language and Speech.</p></li>
+<li><p>Language and Cognition.</p></li>
 <li><p>Bilingualism: Language and Cognition.</p></li>
+<li><p>Language Learning.</p></li>
+<li><p>Journal of Child Language.</p></li>
 <li><p>Glossa Psycholinguistics.</p></li>
+<li><p>Cognitive Linguistics</p></li>
+<li><p>Biolinguistics.</p></li>
 </ul>
 </div>
 </div>

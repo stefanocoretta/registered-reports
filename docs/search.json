@@ -53,21 +53,14 @@
     "href": "slides/index.html#tip-3-research-compendium",
     "title": "Registered Reports as a model for research reform",
     "section": "Tip 3 Research compendium",
-    "text": "Tip 3 Research compendium"
-  },
-  {
-    "objectID": "slides/index.html#tip-4-assess-feasibility",
-    "href": "slides/index.html#tip-4-assess-feasibility",
-    "title": "Registered Reports as a model for research reform",
-    "section": "Tip 4 Assess feasibility",
-    "text": "Tip 4 Assess feasibility"
+    "text": "Tip 3 Research compendium\n\n\n\nResearch Compendium\n\n\nA research compendium is a repository containing all materials, code, notebooks, images, data, metadata, manuscripts, etc of a project. A compendium is structured in a way that makes the research process transparent and reproducible.\n\n\n\n\n\n\n\n\n\n\nIdeally, use a single main folder.\n\nCompendia can belong to a super-project and have sub-project compendia/folders. A single paper can also be associated to a specific compendium.\n\nOrganise files and folders inside according to type and context: separate data, code, images.\nSeparate raw and derived data.\nUse as much automation as possible.\nDocument everything (for example with READMEs).\nAdd a LICENSE file (for example, https://creativecommons.org/chooser/).\nUse version control (like https://git-scm.com)."
   },
   {
     "objectID": "slides/index.html#venues",
     "href": "slides/index.html#venues",
     "title": "Registered Reports as a model for research reform",
     "section": "Venues",
-    "text": "Venues\n\n\n\n\nRegistered Reports in Linguistics (RRLing): https://journals.ed.ac.uk/rrling/index\nJournal of Phonetics.\nLanguage and Speech.\nBilingualism: Language and Cognition.\nGlossa Psycholinguistics."
+    "text": "Venues\n\n\n\n\nRegistered Reports in Linguistics (RRLing): https://journals.ed.ac.uk/rrling/index\nJournal of Phonetics.\nLanguage and Speech.\nLanguage and Cognition.\nBilingualism: Language and Cognition.\nLanguage Learning.\nJournal of Child Language.\nGlossa Psycholinguistics.\nCognitive Linguistics\nBiolinguistics."
   },
   {
     "objectID": "slides/index.html#make-your-next-study-a-registered-report",
