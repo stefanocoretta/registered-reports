@@ -21,47 +21,15 @@ nocite: |
 
 ![](/img/rr-timeline.png){fig-align="center"}
 
-## How to write an RR
-
-::: callout-tip
-## Stage 1 manuscript
-
-Write **introduction, background and methods**.
-:::
-
 . . .
 
-::: callout-important
-## In Principle Acceptance
+<br>
 
-Carry out the study according to the Stage 1 registered protocol.
-:::
-
-. . .
-
-::: callout-tip
-## Stage 2 manuscript
-
-Write **results** (of registered analyses + optional exploratory non-registered analyses), **discussion** and **conclusion**.
-:::
-
-. . .
-
-::: callout-important
-## Publication
-
-Your Stage 2 manuscript is published.
-:::
-
-. . .
-
-::: {style="text-align: center; font-size: 0.6em;"}
 See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
-:::
 
 ## Levels of bias control
 
-![](/img/bias_taxon.2400x2400.jpeg){fig-align="center"}
+![From [PCI RR](https://rr.peercommunityin.org/help/guide_for_authors#h_95790490510491613309490336) guidelines for authors.](/img/bias_taxon.2400x2400.jpeg){fig-align="center"}
 
 ## [Tip 1]{.text-box} Precise RQs (and RHs)
 
@@ -250,4 +218,42 @@ A compendium is structured in a way that makes the research process transparent 
   - Start very early (Semester 1).
 
   - Arrangements for post-IPA.
+:::
+
+## How to write an RR
+
+::: callout-tip
+## Stage 1 manuscript
+
+Write **introduction, background and methods**.
+:::
+
+. . .
+
+::: callout-important
+## In Principle Acceptance
+
+Carry out the study according to the Stage 1 registered protocol.
+:::
+
+. . .
+
+::: callout-tip
+## Stage 2 manuscript
+
+Write **results** (of registered analyses + optional exploratory non-registered analyses), **discussion** and **conclusion**.
+:::
+
+. . .
+
+::: callout-important
+## Publication
+
+Your Stage 2 manuscript is published.
+:::
+
+. . .
+
+::: {style="text-align: center; font-size: 0.6em;"}
+See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
 :::
