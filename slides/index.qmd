@@ -27,9 +27,6 @@ nocite: |
 
 See @chambers2021 and <https://www.cos.io/initiatives/registered-reports>.
 
-## Levels of bias control
-
-![From [PCI RR](https://rr.peercommunityin.org/help/guide_for_authors#h_95790490510491613309490336) guidelines for authors.](/img/bias_taxon.2400x2400.jpeg){fig-align="center"}
 
 ## [Tip 1]{.text-box} Precise RQs (and RHs)
 
@@ -148,6 +145,10 @@ A compendium is structured in a way that makes the research process transparent 
 :::
 
 :::
+
+## [Tip 4]{.text-box} Levels of bias control
+
+![From [PCI RR](https://rr.peercommunityin.org/help/guide_for_authors#h_95790490510491613309490336) guidelines for authors.](/img/bias_taxon.2400x2400.jpeg){fig-align="center"}
 
 ## Venues
 
