@@ -6,7 +6,7 @@ date: "2026-05-21"
 format: revealjs
 bibliography: references.bib
 nocite: |
-  @devezer2019, @makel2012, @cohen1962, @sedlmeier1992, @bezeau2001, @john2012, @wicherts2006, @fanelli2010, @kerr1998
+  @devezer2019, @makel2012, @cohen1962, @sedlmeier1992, @bezeau2001, @john2012, @wicherts2006, @fanelli2010, @kerr1998, @scheel2022, @yarkoni2022
 ---
 
 ## Research crises
